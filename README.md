@@ -32,6 +32,19 @@
 $ npm install
 ```
 
+## Docker
+
+```bash
+$ docker compose up
+```
+
+## Prisma
+
+```bash
+$ npx prisma migrate dev
+```
+
+
 ## Compile and run the project
 
 ```bash
